@@ -14,4 +14,9 @@ $${\color{lightgreen}Family \space Guy, \space Skins, \space Shameless, \space T
   $${\color{green}fandoms \space (games)}$$
    $${\color{lightgreen}Fractured \space but \space whole, \space Stick \space of \space truth, \space Arkham, \space Telltale, \space Roblox, \space PjSK, \space CR:K, \space Twilight, \space BTD, \space Danganronpa \space PT }$$
 
+<div align="center">
+ 
+![img2](the_batman-removebg-preview.png)
+</div>
+
 guys i CANNOT code ts
