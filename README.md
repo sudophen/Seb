@@ -2,6 +2,7 @@
  $${\color{green}My \space name \space is \space Seb, \space Im \space js \space a \space guy?}$$
  $${\color{lightgreen}INTP}$$
  $${\color{lightgreen}4w5}$$
+ $${\color{lightgreen}pls \space int \space or \space check \space the \space sites \space listed!}$$
 
 <div align="center">
  
